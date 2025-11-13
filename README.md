@@ -103,15 +103,3 @@ These lists show exactly what was available at the start and what remained at th
 * Merging multiple dictionaries
 * Sorted output formatting
 * Multi-step versioned development
-
----
-
-# Possible Future Additions
-
-* Blocking purchases when the player lacks enough gold
-* Adding cheat codes that increase gold or give items
-* Adding random events such as gold loss or item discounts
-* Creating a full story mode with multiple endings
-* Adding additional stores or random restocking
-* Refactoring into functions or a class-based system
-
