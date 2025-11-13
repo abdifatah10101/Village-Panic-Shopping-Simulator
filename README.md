@@ -34,7 +34,7 @@ This project demonstrates practical use of loops, dictionary manipulation, condi
 * All player choices, including "exit", are stored.
 * If the player types "exit" for all three stores, the program prints a message that nothing was purchased.
 
-## Version 2.0 – Gold and Pricing System
+## Version 1.4 – Gold and Pricing System
 
 * Player begins with 1000 gold.
 * All items have prices assigned in the store dictionaries.
